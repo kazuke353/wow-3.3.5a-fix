@@ -17,6 +17,8 @@ Patched exe SHA-256: `1b56f6a4edcd7e7d1b351c60c00f8fddb757bd4a60e9a27c2120bebc0a
 
 ## Server side
 
+Full task brief for the core: [CORE_CHANGES.md](CORE_CHANGES.md).
+
 The client accepts an optional trailing byte on both modifier packets:
 
 ```
